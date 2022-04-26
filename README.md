@@ -6,10 +6,10 @@ Na linha de comando executar o seguinte:
 npm install -g create-react-app
 ```
 
-Verificar a versão do node:
+Instalar o node-modules:
 
 ```bash
-node version
+npm install -g node-modules
 ```
 
 Deve ser igual o maior que a `16.x.x`, então execute o comando a seguir:
