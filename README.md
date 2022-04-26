@@ -12,7 +12,7 @@ Verificar a versão do node:
 node version
 ```
 
-Deve ser igual o maior que a `16.x.x`.
+Deve ser igual o maior que a `16.x.x`, então execute o comando a seguir:
 
 ```bash
 npm start
