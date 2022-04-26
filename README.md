@@ -1,12 +1,6 @@
 ## Hello World com React
 
-Na linha de comando executar o seguinte:
-
-```bash
-npm install -g create-react-app
-```
-
-Instalar o node-modules:
+Clonar o projeto e instalar o node-modules dentro do pasta demo-react-aula-09:
 
 ```bash
 npm install -g node-modules
